@@ -1,2 +1,2 @@
 # JavaMirea
-Completed practical and laboratory work
+Completed practical and laboratory work👋
